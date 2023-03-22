@@ -8,6 +8,7 @@ packages = [{include = "entendendo_algoritmos"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+rich = "^13.3.2"
 
 
 [build-system]
