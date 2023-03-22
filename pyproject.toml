@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "entendendo-algoritmos"
+version = "0.1.0"
+description = ""
+authors = ["Joey-Resende <givanildo.resende@gmail.com>"]
+readme = "README.md"
+packages = [{include = "entendendo_algoritmos"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
