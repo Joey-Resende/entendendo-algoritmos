@@ -1,8 +1,8 @@
 # Entendendo algoritmos (Grokking Algorithms)
 
-Após adquirir o livro Entendendo Algoritmos (Grokking algorithms) do escritor e artista plástico Aditya Y. Bhargava, resolvi criar esse repositório para acompanhar os exemplos criado pelo autor.
+Após adquirir o livro Entendendo Algoritmos (Grokking algorithms) do escritor e artista plástico Aditya Y. Bhargava, resolvi criar esse repositório para acompanhar os exemplos criados pelo autor.
 
-Por ser entusiasta de Python estou criando os exemplos com ele, usando o poetry e o Rich duaa ferramentas fantásticas.
+Por ser entusiasta de Python estou criando os exemplos com ele, usando o poetry e o Rich duas ferramentas fantásticas.
 
 ## Ferramentas
 
